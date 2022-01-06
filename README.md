@@ -1,0 +1,1 @@
+Hey there and welcome to my Github! My name is Kent Mark and I'm a soon to be graudate of Iowa State Univeristy, in the spring of 2022, with a degree in software engineering. This git serves to showacase all of the work that I have done while I was a student at ISU, and also all of the cool things I have done outside of school on my personal time!
